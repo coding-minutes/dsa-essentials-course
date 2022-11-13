@@ -6,7 +6,7 @@ void selection_sort(int a[],int n){
 
 	for(int pos = 0; pos <= n-2; pos++){
 
-		int current = a[pos];
+		
 		int min_position = pos;
 
 		//find out the element 
